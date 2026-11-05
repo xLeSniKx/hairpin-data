@@ -1,0 +1,6 @@
+{
+  "version": "1",
+  "files": [
+    { "path": "test/hello.txt", "version": "1" }
+  ]
+}
