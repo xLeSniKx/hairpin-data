@@ -1,6 +1,400 @@
 {
-  "version": "1",
+  "version": "3531dd7ecc",
   "files": [
-    { "path": "test/hello.txt", "version": "1" }
+    {
+      "path": "audio/dist_10.wav",
+      "version": "f05f963647",
+      "size": 27740
+    },
+    {
+      "path": "audio/dist_100.wav",
+      "version": "8931fb5eb3",
+      "size": 18656
+    },
+    {
+      "path": "audio/dist_1000.wav",
+      "version": "6e66b459f6",
+      "size": 26748
+    },
+    {
+      "path": "audio/dist_120.wav",
+      "version": "397a77d1b0",
+      "size": 36302
+    },
+    {
+      "path": "audio/dist_150.wav",
+      "version": "0c0192094e",
+      "size": 38602
+    },
+    {
+      "path": "audio/dist_20.wav",
+      "version": "497d96a193",
+      "size": 29820
+    },
+    {
+      "path": "audio/dist_200.wav",
+      "version": "db7c930da5",
+      "size": 28064
+    },
+    {
+      "path": "audio/dist_250.wav",
+      "version": "06d69ee0cc",
+      "size": 47026
+    },
+    {
+      "path": "audio/dist_30.wav",
+      "version": "fa97992155",
+      "size": 24920
+    },
+    {
+      "path": "audio/dist_300.wav",
+      "version": "f054fb53b2",
+      "size": 20638
+    },
+    {
+      "path": "audio/dist_350.wav",
+      "version": "f798e66ab5",
+      "size": 42244
+    },
+    {
+      "path": "audio/dist_40.wav",
+      "version": "a9486800d8",
+      "size": 24028
+    },
+    {
+      "path": "audio/dist_400.wav",
+      "version": "eca4226380",
+      "size": 29024
+    },
+    {
+      "path": "audio/dist_450.wav",
+      "version": "28098aa97c",
+      "size": 50776
+    },
+    {
+      "path": "audio/dist_50.wav",
+      "version": "833b8a53c1",
+      "size": 30274
+    },
+    {
+      "path": "audio/dist_500.wav",
+      "version": "d0767d3adb",
+      "size": 25916
+    },
+    {
+      "path": "audio/dist_60.wav",
+      "version": "c79953967c",
+      "size": 32458
+    },
+    {
+      "path": "audio/dist_600.wav",
+      "version": "252f569821",
+      "size": 28760
+    },
+    {
+      "path": "audio/dist_70.wav",
+      "version": "2d72932ac9",
+      "size": 32840
+    },
+    {
+      "path": "audio/dist_700.wav",
+      "version": "eaa37252a3",
+      "size": 29384
+    },
+    {
+      "path": "audio/dist_80.wav",
+      "version": "ac5292ea10",
+      "size": 37806
+    },
+    {
+      "path": "audio/dist_800.wav",
+      "version": "508eeb2687",
+      "size": 33770
+    },
+    {
+      "path": "audio/dist_90.wav",
+      "version": "93421a067b",
+      "size": 33142
+    },
+    {
+      "path": "audio/dist_900.wav",
+      "version": "d479f7016c",
+      "size": 32146
+    },
+    {
+      "path": "audio/onto_left_1.wav",
+      "version": "7881b5081c",
+      "size": 40468
+    },
+    {
+      "path": "audio/onto_left_2.wav",
+      "version": "06aaca1110",
+      "size": 34350
+    },
+    {
+      "path": "audio/onto_left_3.wav",
+      "version": "2b1ce09304",
+      "size": 36376
+    },
+    {
+      "path": "audio/onto_left_4.wav",
+      "version": "408efdb904",
+      "size": 39680
+    },
+    {
+      "path": "audio/onto_left_5.wav",
+      "version": "800761b752",
+      "size": 39594
+    },
+    {
+      "path": "audio/onto_left_6.wav",
+      "version": "8d95b74e11",
+      "size": 41494
+    },
+    {
+      "path": "audio/onto_left_hairpin.wav",
+      "version": "15b61ddfcf",
+      "size": 44490
+    },
+    {
+      "path": "audio/onto_right_1.wav",
+      "version": "41cef04724",
+      "size": 38496
+    },
+    {
+      "path": "audio/onto_right_2.wav",
+      "version": "0ac1731629",
+      "size": 33552
+    },
+    {
+      "path": "audio/onto_right_3.wav",
+      "version": "6a0ee23a60",
+      "size": 35580
+    },
+    {
+      "path": "audio/onto_right_4.wav",
+      "version": "7fcf30c18e",
+      "size": 40108
+    },
+    {
+      "path": "audio/onto_right_5.wav",
+      "version": "c5ca0eda1e",
+      "size": 39158
+    },
+    {
+      "path": "audio/onto_right_6.wav",
+      "version": "fb2e3d35e0",
+      "size": 40134
+    },
+    {
+      "path": "audio/onto_right_hairpin.wav",
+      "version": "f7b4ac65d5",
+      "size": 45712
+    },
+    {
+      "path": "audio/thru_10.wav",
+      "version": "a502dc2cb3",
+      "size": 34478
+    },
+    {
+      "path": "audio/thru_100.wav",
+      "version": "2fab3b43e5",
+      "size": 27594
+    },
+    {
+      "path": "audio/thru_1000.wav",
+      "version": "9c3d300d9c",
+      "size": 37880
+    },
+    {
+      "path": "audio/thru_120.wav",
+      "version": "c7a6b7929b",
+      "size": 44930
+    },
+    {
+      "path": "audio/thru_150.wav",
+      "version": "a758025737",
+      "size": 46024
+    },
+    {
+      "path": "audio/thru_20.wav",
+      "version": "70060ab452",
+      "size": 37296
+    },
+    {
+      "path": "audio/thru_200.wav",
+      "version": "b51a98e5b8",
+      "size": 34160
+    },
+    {
+      "path": "audio/thru_250.wav",
+      "version": "50eed00f82",
+      "size": 52654
+    },
+    {
+      "path": "audio/thru_30.wav",
+      "version": "54af7fa1a3",
+      "size": 36646
+    },
+    {
+      "path": "audio/thru_300.wav",
+      "version": "7ce24499fe",
+      "size": 31882
+    },
+    {
+      "path": "audio/thru_350.wav",
+      "version": "f04044a43e",
+      "size": 52024
+    },
+    {
+      "path": "audio/thru_40.wav",
+      "version": "3aee489334",
+      "size": 33008
+    },
+    {
+      "path": "audio/thru_400.wav",
+      "version": "ca06a0d9a9",
+      "size": 37440
+    },
+    {
+      "path": "audio/thru_450.wav",
+      "version": "1a328c4c2e",
+      "size": 59350
+    },
+    {
+      "path": "audio/thru_50.wav",
+      "version": "537e8d4c1f",
+      "size": 39728
+    },
+    {
+      "path": "audio/thru_500.wav",
+      "version": "ea46187618",
+      "size": 36730
+    },
+    {
+      "path": "audio/thru_60.wav",
+      "version": "45bed11ee3",
+      "size": 40534
+    },
+    {
+      "path": "audio/thru_600.wav",
+      "version": "ea23121c78",
+      "size": 37710
+    },
+    {
+      "path": "audio/thru_70.wav",
+      "version": "daff118896",
+      "size": 40332
+    },
+    {
+      "path": "audio/thru_700.wav",
+      "version": "29473a9040",
+      "size": 37058
+    },
+    {
+      "path": "audio/thru_80.wav",
+      "version": "2a9ade318e",
+      "size": 44296
+    },
+    {
+      "path": "audio/thru_800.wav",
+      "version": "3eb9831c00",
+      "size": 40102
+    },
+    {
+      "path": "audio/thru_90.wav",
+      "version": "7dae5d43fb",
+      "size": 38732
+    },
+    {
+      "path": "audio/thru_900.wav",
+      "version": "13eba33e0b",
+      "size": 40222
+    },
+    {
+      "path": "audio/turn_left_1.wav",
+      "version": "4b0a925a8e",
+      "size": 36512
+    },
+    {
+      "path": "audio/turn_left_2.wav",
+      "version": "d8b8cbd5a8",
+      "size": 30074
+    },
+    {
+      "path": "audio/turn_left_3.wav",
+      "version": "9e31a87a75",
+      "size": 31828
+    },
+    {
+      "path": "audio/turn_left_4.wav",
+      "version": "294bfb235c",
+      "size": 38118
+    },
+    {
+      "path": "audio/turn_left_5.wav",
+      "version": "4eb4bb7252",
+      "size": 34852
+    },
+    {
+      "path": "audio/turn_left_6.wav",
+      "version": "b86be26d84",
+      "size": 36644
+    },
+    {
+      "path": "audio/turn_left_hairpin.wav",
+      "version": "dfae96eb53",
+      "size": 39518
+    },
+    {
+      "path": "audio/turn_right_1.wav",
+      "version": "65fb203eea",
+      "size": 32220
+    },
+    {
+      "path": "audio/turn_right_2.wav",
+      "version": "c52f8e8646",
+      "size": 26750
+    },
+    {
+      "path": "audio/turn_right_3.wav",
+      "version": "fe71bfb4bc",
+      "size": 25280
+    },
+    {
+      "path": "audio/turn_right_4.wav",
+      "version": "96f915a5f6",
+      "size": 32386
+    },
+    {
+      "path": "audio/turn_right_5.wav",
+      "version": "8fbd345dfe",
+      "size": 31240
+    },
+    {
+      "path": "audio/turn_right_6.wav",
+      "version": "d233a4b52a",
+      "size": 33430
+    },
+    {
+      "path": "audio/turn_right_hairpin.wav",
+      "version": "2cf67696ac",
+      "size": 37070
+    },
+    {
+      "path": "fx/click_end.wav",
+      "version": "b4e748a891",
+      "size": 3606
+    },
+    {
+      "path": "fx/click_start.wav",
+      "version": "12412fd2d3",
+      "size": 5370
+    },
+    {
+      "path": "fx/radio_noise.wav",
+      "version": "4460ba0cd3",
+      "size": 264678
+    }
   ]
 }
