@@ -1,5 +1,5 @@
 {
-  "version": "3531dd7ecc",
+  "version": "04d155f81f",
   "files": [
     {
       "path": "audio/dist_10.wav",
@@ -395,6 +395,231 @@
       "path": "fx/radio_noise.wav",
       "version": "4460ba0cd3",
       "size": 264678
+    },
+    {
+      "path": "map/fonts/NotoSansItalic/0-255.pbf",
+      "version": "087b2484de",
+      "size": 79344
+    },
+    {
+      "path": "map/fonts/NotoSansItalic/1024-1279.pbf",
+      "version": "f4d8d5abdd",
+      "size": 128015
+    },
+    {
+      "path": "map/fonts/NotoSansItalic/1280-1535.pbf",
+      "version": "4a1ace1e94",
+      "size": 26727
+    },
+    {
+      "path": "map/fonts/NotoSansItalic/256-511.pbf",
+      "version": "5f6853b9ba",
+      "size": 132976
+    },
+    {
+      "path": "map/fonts/NotoSansItalic/512-767.pbf",
+      "version": "d6c151d156",
+      "size": 96460
+    },
+    {
+      "path": "map/fonts/NotoSansItalic/65024-65279.pbf",
+      "version": "1647bff551",
+      "size": 2551
+    },
+    {
+      "path": "map/fonts/NotoSansItalic/65280-65535.pbf",
+      "version": "dde2dec7e9",
+      "size": 1637
+    },
+    {
+      "path": "map/fonts/NotoSansItalic/768-1023.pbf",
+      "version": "0bcf1ba76c",
+      "size": 71308
+    },
+    {
+      "path": "map/fonts/NotoSansItalic/7680-7935.pbf",
+      "version": "5c74bdeb64",
+      "size": 141117
+    },
+    {
+      "path": "map/fonts/NotoSansItalic/8192-8447.pbf",
+      "version": "8572c4bca4",
+      "size": 52891
+    },
+    {
+      "path": "map/fonts/NotoSansItalic/8448-8703.pbf",
+      "version": "702d36c048",
+      "size": 49772
+    },
+    {
+      "path": "map/fonts/NotoSansItalic/8704-8959.pbf",
+      "version": "8ea8901291",
+      "size": 140
+    },
+    {
+      "path": "map/fonts/NotoSansMedium/0-255.pbf",
+      "version": "e3a9b013c2",
+      "size": 77628
+    },
+    {
+      "path": "map/fonts/NotoSansMedium/1024-1279.pbf",
+      "version": "e35dd7a2f9",
+      "size": 128608
+    },
+    {
+      "path": "map/fonts/NotoSansMedium/1280-1535.pbf",
+      "version": "d62ddee269",
+      "size": 86131
+    },
+    {
+      "path": "map/fonts/NotoSansMedium/256-511.pbf",
+      "version": "b6fb6512d3",
+      "size": 129635
+    },
+    {
+      "path": "map/fonts/NotoSansMedium/512-767.pbf",
+      "version": "8be25b1902",
+      "size": 96169
+    },
+    {
+      "path": "map/fonts/NotoSansMedium/65024-65279.pbf",
+      "version": "75407c0571",
+      "size": 69691
+    },
+    {
+      "path": "map/fonts/NotoSansMedium/65280-65535.pbf",
+      "version": "a111ea298f",
+      "size": 1637
+    },
+    {
+      "path": "map/fonts/NotoSansMedium/768-1023.pbf",
+      "version": "39d27de857",
+      "size": 71160
+    },
+    {
+      "path": "map/fonts/NotoSansMedium/7680-7935.pbf",
+      "version": "fe4d430631",
+      "size": 138316
+    },
+    {
+      "path": "map/fonts/NotoSansMedium/8192-8447.pbf",
+      "version": "6331ce179e",
+      "size": 65101
+    },
+    {
+      "path": "map/fonts/NotoSansMedium/8448-8703.pbf",
+      "version": "290795a5fc",
+      "size": 77027
+    },
+    {
+      "path": "map/fonts/NotoSansMedium/8704-8959.pbf",
+      "version": "76d21cb49b",
+      "size": 381
+    },
+    {
+      "path": "map/fonts/NotoSansRegular/0-255.pbf",
+      "version": "cc7b17a99f",
+      "size": 76044
+    },
+    {
+      "path": "map/fonts/NotoSansRegular/1024-1279.pbf",
+      "version": "f77c0674ef",
+      "size": 125320
+    },
+    {
+      "path": "map/fonts/NotoSansRegular/1280-1535.pbf",
+      "version": "94d39ee0b2",
+      "size": 84434
+    },
+    {
+      "path": "map/fonts/NotoSansRegular/256-511.pbf",
+      "version": "d5937fd111",
+      "size": 127726
+    },
+    {
+      "path": "map/fonts/NotoSansRegular/512-767.pbf",
+      "version": "1962c4cd56",
+      "size": 94728
+    },
+    {
+      "path": "map/fonts/NotoSansRegular/65024-65279.pbf",
+      "version": "a44fd3d0d7",
+      "size": 68701
+    },
+    {
+      "path": "map/fonts/NotoSansRegular/65280-65535.pbf",
+      "version": "6f10971f59",
+      "size": 7552
+    },
+    {
+      "path": "map/fonts/NotoSansRegular/768-1023.pbf",
+      "version": "624ea0ac42",
+      "size": 77034
+    },
+    {
+      "path": "map/fonts/NotoSansRegular/7680-7935.pbf",
+      "version": "5311751f24",
+      "size": 135449
+    },
+    {
+      "path": "map/fonts/NotoSansRegular/8192-8447.pbf",
+      "version": "45575563a0",
+      "size": 64220
+    },
+    {
+      "path": "map/fonts/NotoSansRegular/8448-8703.pbf",
+      "version": "65b3ec35ec",
+      "size": 82014
+    },
+    {
+      "path": "map/fonts/NotoSansRegular/8704-8959.pbf",
+      "version": "895c815f9c",
+      "size": 1596
+    },
+    {
+      "path": "map/fonts/OFL.txt",
+      "version": "e08a6efa77",
+      "size": 4374
+    },
+    {
+      "path": "map/sprites/v4/dark.json",
+      "version": "7bb502b1b8",
+      "size": 3549
+    },
+    {
+      "path": "map/sprites/v4/dark.png",
+      "version": "3e36411d80",
+      "size": 16054
+    },
+    {
+      "path": "map/sprites/v4/dark@2x.json",
+      "version": "4d4296c363",
+      "size": 3579
+    },
+    {
+      "path": "map/sprites/v4/dark@2x.png",
+      "version": "11eebbf4d5",
+      "size": 28407
+    },
+    {
+      "path": "map/sprites/v4/light.json",
+      "version": "7bb502b1b8",
+      "size": 3549
+    },
+    {
+      "path": "map/sprites/v4/light.png",
+      "version": "bf8d2f3311",
+      "size": 16174
+    },
+    {
+      "path": "map/sprites/v4/light@2x.json",
+      "version": "4d4296c363",
+      "size": 3579
+    },
+    {
+      "path": "map/sprites/v4/light@2x.png",
+      "version": "4a6ccddb37",
+      "size": 28852
     }
   ]
 }
